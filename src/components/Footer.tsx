@@ -56,7 +56,7 @@ export default function Footer(props: Props) {
           >
             <SocialIcons className='mb-5' trackingContext='footer' />
             <div className='flex justify-center space-x-2 text-sm opacity-70'>
-              <div className='whitespace-nowrap'>© 2024 Realms Today Ltd</div>
+              <div className='whitespace-nowrap'>© 2025 Realms Today Ltd</div>
               {/**
                * We aren't going to include the privacy policy for now
                * <span>|</span>
